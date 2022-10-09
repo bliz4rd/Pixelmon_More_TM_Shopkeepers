@@ -1,0 +1,2602 @@
+{
+  "data": {
+    "type": "PokemartSecond"
+  },
+  "textures": [
+    {
+      "name": "shoplady.png"
+    },
+    {
+      "name": "shoplady2.png"
+    },
+    {
+      "name": "shopsecondman.png"
+    }
+  ],
+  "names": [
+    {
+      "name": "Mrs. Peio"
+    },
+    {
+      "name": "Mrs. Maco"
+    },
+    {
+      "name": "Mr. Muscle"
+    }
+  ],
+  "chat": [
+    {
+      "hello": "Welcome to our lovely store. I am sure the quality of our goods will please you.",
+      "goodbye": "Delighted to have met you. Good day."
+    },
+    {
+      "hello": "Hello, and welcome to the Poké Mart. We have an exciting range of luxury goods.",
+      "goodbye": "Thank you for shopping at the Poké Mart."
+    },
+    {
+      "hello": "Bienvenu! Our Poké Mart has fine quality merchandise to offer you.",
+      "goodbye": "It was indeed a privilege to do business with you."
+    },
+    {
+      "hello": "Welcome to our fine Poké Mart. Enjoy browsing our luxury range.",
+      "goodbye": "Good day to you, and thank you for shopping at our store."
+    }
+  ],
+  "items": [
+    {
+      "name": "pixelmon:tm8_blank",
+      "variation": false,
+      "rarity": 1.0
+    },
+    {
+      "name": "pixelmon:tr8_blank",
+      "variation": false,
+      "rarity": 1.0
+    },
+    {
+      "name": "Alola: Work Up",
+      "rarity": 0.01
+    },
+    {
+      "name": "Alola: Dragon Claw",
+      "rarity": 0.01
+    },
+    {
+      "name": "Alola: Psyshock",
+      "rarity": 0.01
+    },
+    {
+      "name": "Alola: Calm Mind",
+      "rarity": 0.01
+    },
+    {
+      "name": "Alola: Roar",
+      "rarity": 0.01
+    },
+    {
+      "name": "Alola: Toxic",
+      "rarity": 0.01
+    },
+    {
+      "name": "Alola: Hail",
+      "rarity": 0.01
+    },
+    {
+      "name": "Alola: Bulk Up",
+      "rarity": 0.01
+    },
+    {
+      "name": "Alola: Venoshock",
+      "rarity": 0.01
+    },
+    {
+      "name": "Alola: Hidden Power",
+      "rarity": 0.01
+    },
+    {
+      "name": "Alola: Sunny Day",
+      "rarity": 0.01
+    },
+    {
+      "name": "Alola: Taunt",
+      "rarity": 0.01
+    },
+    {
+      "name": "Alola: Ice Beam",
+      "rarity": 0.01
+    },
+    {
+      "name": "Alola: Blizzard",
+      "rarity": 0.01
+    },
+    {
+      "name": "Alola: Hyper Beam",
+      "rarity": 0.01
+    },
+    {
+      "name": "Alola: Light Screen",
+      "rarity": 0.01
+    },
+    {
+      "name": "Alola: Protect",
+      "rarity": 0.01
+    },
+    {
+      "name": "Alola: Rain Dance",
+      "rarity": 0.01
+    },
+    {
+      "name": "Alola: Roost",
+      "rarity": 0.01
+    },
+    {
+      "name": "Alola: Safeguard",
+      "rarity": 0.01
+    },
+    {
+      "name": "Alola: Frustration",
+      "rarity": 0.01
+    },
+    {
+      "name": "Alola: Solar Beam",
+      "rarity": 0.01
+    },
+    {
+      "name": "Alola: Smack Down",
+      "rarity": 0.01
+    },
+    {
+      "name": "Alola: THunderbolt",
+      "rarity": 0.01
+    },
+    {
+      "name": "Alola: Thunder",
+      "rarity": 0.01
+    },
+    {
+      "name": "Alola: Earthquake",
+      "rarity": 0.01
+    },
+    {
+      "name": "Alola: Return",
+      "rarity": 0.01
+    },
+    {
+      "name": "Alola: Leech Life",
+      "rarity": 0.01
+    },
+    {
+      "name": "Alola: Psychic",
+      "rarity": 0.01
+    },
+    {
+      "name": "Alola: Shadow Ball",
+      "rarity": 0.01
+    },
+    {
+      "name": "Alola: Brick Break",
+      "rarity": 0.01
+    },
+    {
+      "name": "Alola: Double Team",
+      "rarity": 0.01
+    },
+    {
+      "name": "Alola: Reflect",
+      "rarity": 0.01
+    },
+    {
+      "name": "Alola: Sludge Wave",
+      "rarity": 0.01
+    },
+    {
+      "name": "Alola: Flamethrower",
+      "rarity": 0.01
+    },
+    {
+      "name": "Alola: Sludge Bomb",
+      "rarity": 0.01
+    },
+    {
+      "name": "Alola: Sandstorm",
+      "rarity": 0.01
+    },
+    {
+      "name": "Alola: Fire Blast",
+      "rarity": 0.01
+    },
+    {
+      "name": "Alola: Rock Tomb",
+      "rarity": 0.01
+    },
+    {
+      "name": "Alola: Aerial Ace",
+      "rarity": 0.01
+    },
+    {
+      "name": "Alola: Torment",
+      "rarity": 0.01
+    },
+    {
+      "name": "Alola: Facade",
+      "rarity": 0.01
+    },
+    {
+      "name": "Alola: Flame Charge",
+      "rarity": 0.01
+    },
+    {
+      "name": "Alola: Rest",
+      "rarity": 0.01
+    },
+    {
+      "name": "Alola: Attract",
+      "rarity": 0.01
+    },
+    {
+      "name": "Alola: Thief",
+      "rarity": 0.01
+    },
+    {
+      "name": "Alola: Low Sweep",
+      "rarity": 0.01
+    },
+    {
+      "name": "Alola: Round",
+      "rarity": 0.01
+    },
+    {
+      "name": "Alola: Echoed Voice",
+      "rarity": 0.01
+    },
+    {
+      "name": "Alola: Overheat",
+      "rarity": 0.01
+    },
+    {
+      "name": "Alola: Steel Wing",
+      "rarity": 0.01
+    },
+    {
+      "name": "Alola: Focus Blast",
+      "rarity": 0.01
+    },
+    {
+      "name": "Alola: Energy Ball",
+      "rarity": 0.01
+    },
+    {
+      "name": "Alola: False Swipe",
+      "rarity": 0.01
+    },
+    {
+      "name": "Alola: Scald",
+      "rarity": 0.01
+    },
+    {
+      "name": "Alola: Fling",
+      "rarity": 0.01
+    },
+    {
+      "name": "Alola: Charge Beam",
+      "rarity": 0.01
+    },
+    {
+      "name": "Alola: Sky Drop",
+      "rarity": 0.01
+    },
+    {
+      "name": "Alola: Brutal Swing",
+      "rarity": 0.01
+    },
+    {
+      "name": "Alola: Quash",
+      "rarity": 0.01
+    },
+    {
+      "name": "Alola: Will-O-Wisp",
+      "rarity": 0.01
+    },
+    {
+      "name": "Alola: Acrobatics",
+      "rarity": 0.01
+    },
+    {
+      "name": "Alola: Embargo",
+      "rarity": 0.01
+    },
+    {
+      "name": "Alola: Explosion",
+      "rarity": 0.01
+    },
+    {
+      "name": "Alola: Shadow Claw",
+      "rarity": 0.01
+    },
+    {
+      "name": "Alola: Payback",
+      "rarity": 0.01
+    },
+    {
+      "name": "Alola: Smart Strike",
+      "rarity": 0.01
+    },
+    {
+      "name": "Alola: Giga Impact",
+      "rarity": 0.01
+    },
+    {
+      "name": "Alola: Rock Polish",
+      "rarity": 0.01
+    },
+    {
+      "name": "Alola: Aurora Veil",
+      "rarity": 0.01
+    },
+    {
+      "name": "Alola: Stone Edge",
+      "rarity": 0.01
+    },
+    {
+      "name": "Alola: Volt Switch",
+      "rarity": 0.01
+    },
+    {
+      "name": "Alola: Thunder Wave",
+      "rarity": 0.01
+    },
+    {
+      "name": "Alola: Gyro Ball",
+      "rarity": 0.01
+    },
+    {
+      "name": "Alola: Swords Dance",
+      "rarity": 0.01
+    },
+    {
+      "name": "Alola: Fly",
+      "rarity": 0.01
+    },
+    {
+      "name": "Alola: Psych Up",
+      "rarity": 0.01
+    },
+    {
+      "name": "Alola: Bulldoze",
+      "rarity": 0.01
+    },
+    {
+      "name": "Alola: Frost Breath",
+      "rarity": 0.01
+    },
+    {
+      "name": "Alola: Rock Slide",
+      "rarity": 0.01
+    },
+    {
+      "name": "Alola: X-Scissor",
+      "rarity": 0.01
+    },
+    {
+      "name": "Alola: Dragon Tail",
+      "rarity": 0.01
+    },
+    {
+      "name": "Alola: Infestation",
+      "rarity": 0.01
+    },
+    {
+      "name": "Alola: Poison Jab",
+      "rarity": 0.01
+    },
+    {
+      "name": "Alola: Dream Eater",
+      "rarity": 0.01
+    },
+    {
+      "name": "Alola: Grass Knot",
+      "rarity": 0.01
+    },
+    {
+      "name": "Alola: Swagger",
+      "rarity": 0.01
+    },
+    {
+      "name": "Alola: Sleep Talk",
+      "rarity": 0.01
+    },
+    {
+      "name": "Alola: U-Turn",
+      "rarity": 0.01
+    },
+    {
+      "name": "Alola: Substitute",
+      "rarity": 0.01
+    },
+    {
+      "name": "Alola: Flash Cannon",
+      "rarity": 0.01
+    },
+    {
+      "name": "Alola: Trick Room",
+      "rarity": 0.01
+    },
+    {
+      "name": "Alola: Wild Charge",
+      "rarity": 0.01
+    },
+    {
+      "name": "Alola: Surf",
+      "rarity": 0.01
+    },
+    {
+      "name": "Alola: Snarl",
+      "rarity": 0.01
+    },
+    {
+      "name": "Alola: Nature Power",
+      "rarity": 0.01
+    },
+    {
+      "name": "Alola: Dark Pulse",
+      "rarity": 0.01
+    },
+    {
+      "name": "Alola: Waterfall",
+      "rarity": 0.01
+    },
+    {
+      "name": "Alola: Dazzling Gleam",
+      "rarity": 0.01
+    },
+    {
+      "name": "Alola: Confide",
+      "rarity": 0.01
+    },
+    {
+      "name": "Galar: Mega Punch",
+      "rarity": 0.01
+    },
+    {
+      "name": "Galar: Mega Kick",
+      "rarity": 0.01
+    },
+    {
+      "name": "Galar: Pay Day",
+      "rarity": 0.01
+    },
+    {
+      "name": "Galar: Fire Punch",
+      "rarity": 0.01
+    },
+    {
+      "name": "Galar: Ice Punch",
+      "rarity": 0.01
+    },
+    {
+      "name": "Galar: Thunder Punch",
+      "rarity": 0.01
+    },
+    {
+      "name": "Galar: Fly",
+      "rarity": 0.01
+    },
+    {
+      "name": "Galar: Pin Missile",
+      "rarity": 0.01
+    },
+    {
+      "name": "Galar: Hyper Beam",
+      "rarity": 0.01
+    },
+    {
+      "name": "Galar: Giga Impact",
+      "rarity": 0.01
+    },
+    {
+      "name": "Galar: Magical Leaf",
+      "rarity": 0.01
+    },
+    {
+      "name": "Galar: Solar Beam",
+      "rarity": 0.01
+    },
+    {
+      "name": "Galar: Solar Blade",
+      "rarity": 0.01
+    },
+    {
+      "name": "Galar: Fire Spin",
+      "rarity": 0.01
+    },
+    {
+      "name": "Galar: Thunder Wave",
+      "rarity": 0.01
+    },
+    {
+      "name": "Galar: Dig",
+      "rarity": 0.01
+    },
+    {
+      "name": "Galar: Screech",
+      "rarity": 0.01
+    },
+    {
+      "name": "Galar: Light Screen",
+      "rarity": 0.01
+    },
+    {
+      "name": "Galar: Reflect",
+      "rarity": 0.01
+    },
+    {
+      "name": "Galar: Safeguard",
+      "rarity": 0.01
+    },
+    {
+      "name": "Galar: Self-Destruct",
+      "rarity": 0.01
+    },
+    {
+      "name": "Galar: Rest",
+      "rarity": 0.01
+    },
+    {
+      "name": "Galar: Rock Slide",
+      "rarity": 0.01
+    },
+    {
+      "name": "Galar: Thief",
+      "rarity": 0.01
+    },
+    {
+      "name": "Galar: Snore",
+      "rarity": 0.01
+    },
+    {
+      "name": "Galar: Protect",
+      "rarity": 0.01
+    },
+    {
+      "name": "Galar: Scary Face",
+      "rarity": 0.01
+    },
+    {
+      "name": "Galar: Icy Wind",
+      "rarity": 0.01
+    },
+    {
+      "name": "Galar: Giga Drain",
+      "rarity": 0.01
+    },
+    {
+      "name": "Galar: Charm",
+      "rarity": 0.01
+    },
+    {
+      "name": "Galar: Steel Wing",
+      "rarity": 0.01
+    },
+    {
+      "name": "Galar: Attract",
+      "rarity": 0.01
+    },
+    {
+      "name": "Galar: Sandstorm",
+      "rarity": 0.01
+    },
+    {
+      "name": "Galar: Rain Dance",
+      "rarity": 0.01
+    },
+    {
+      "name": "Galar: Sunny Day",
+      "rarity": 0.01
+    },
+    {
+      "name": "Galar: Hail",
+      "rarity": 0.01
+    },
+    {
+      "name": "Galar: Whirlpool",
+      "rarity": 0.01
+    },
+    {
+      "name": "Galar: Beat Up",
+      "rarity": 0.01
+    },
+    {
+      "name": "Galar: Will-O-Wisp",
+      "rarity": 0.01
+    },
+    {
+      "name": "Galar: Facade",
+      "rarity": 0.01
+    },
+    {
+      "name": "Galar: Swift",
+      "rarity": 0.01
+    },
+    {
+      "name": "Galar: Helping Hand",
+      "rarity": 0.01
+    },
+    {
+      "name": "Galar: Revenge",
+      "rarity": 0.01
+    },
+    {
+      "name": "Galar: Brick Break",
+      "rarity": 0.01
+    },
+    {
+      "name": "Galar: Imprison",
+      "rarity": 0.01
+    },
+    {
+      "name": "Galar: Dive",
+      "rarity": 0.01
+    },
+    {
+      "name": "Galar: Weather Ball",
+      "rarity": 0.01
+    },
+    {
+      "name": "Galar: Fake Tears",
+      "rarity": 0.01
+    },
+    {
+      "name": "Galar: Rock Tomb",
+      "rarity": 0.01
+    },
+    {
+      "name": "Galar: Sand Tomb",
+      "rarity": 0.01
+    },
+    {
+      "name": "Galar: Bullet Seed",
+      "rarity": 0.01
+    },
+    {
+      "name": "Galar: Icicle Spear",
+      "rarity": 0.01
+    },
+    {
+      "name": "Galar: Bounce",
+      "rarity": 0.01
+    },
+    {
+      "name": "Galar: Mud Shot",
+      "rarity": 0.01
+    },
+    {
+      "name": "Galar: Rock Blast",
+      "rarity": 0.01
+    },
+    {
+      "name": "Galar: Brine",
+      "rarity": 0.01
+    },
+    {
+      "name": "Galar: U-Turn",
+      "rarity": 0.01
+    },
+    {
+      "name": "Galar: Payback",
+      "rarity": 0.01
+    },
+    {
+      "name": "Galar: Assurance",
+      "rarity": 0.01
+    },
+    {
+      "name": "Galar: Fling",
+      "rarity": 0.01
+    },
+    {
+      "name": "Galar: Power Swap",
+      "rarity": 0.01
+    },
+    {
+      "name": "Galar: Guard Swap",
+      "rarity": 0.01
+    },
+    {
+      "name": "Galar: Speed Swap",
+      "rarity": 0.01
+    },
+    {
+      "name": "Galar: Drain Punch",
+      "rarity": 0.01
+    },
+    {
+      "name": "Galar: Avalanche",
+      "rarity": 0.01
+    },
+    {
+      "name": "Galar: Shadow Claw",
+      "rarity": 0.01
+    },
+    {
+      "name": "Galar: Thunder Fang",
+      "rarity": 0.01
+    },
+    {
+      "name": "Galar: Ice Fang",
+      "rarity": 0.01
+    },
+    {
+      "name": "Galar: Fire Fang",
+      "rarity": 0.01
+    },
+    {
+      "name": "Galar: Psycho Cut",
+      "rarity": 0.01
+    },
+    {
+      "name": "Galar: Trick Room",
+      "rarity": 0.01
+    },
+    {
+      "name": "Galar: Wonder Room",
+      "rarity": 0.01
+    },
+    {
+      "name": "Galar: Magic Room",
+      "rarity": 0.01
+    },
+    {
+      "name": "Galar: Cross Poison",
+      "rarity": 0.01
+    },
+    {
+      "name": "Galar: Venoshock",
+      "rarity": 0.01
+    },
+    {
+      "name": "Galar: Low Sweep",
+      "rarity": 0.01
+    },
+    {
+      "name": "Galar: Round",
+      "rarity": 0.01
+    },
+    {
+      "name": "Galar: Hex",
+      "rarity": 0.01
+    },
+    {
+      "name": "Galar: Acrobatics",
+      "rarity": 0.01
+    },
+    {
+      "name": "Galar: Retaliate",
+      "rarity": 0.01
+    },
+    {
+      "name": "Galar: Volt Switch",
+      "rarity": 0.01
+    },
+    {
+      "name": "Galar: Bulldoze",
+      "rarity": 0.01
+    },
+    {
+      "name": "Galar: Electroweb",
+      "rarity": 0.01
+    },
+    {
+      "name": "Galar: Razor Shell",
+      "rarity": 0.01
+    },
+    {
+      "name": "Galar: Tail Slap",
+      "rarity": 0.01
+    },
+    {
+      "name": "Galar: Snarl",
+      "rarity": 0.01
+    },
+    {
+      "name": "Galar: Phantom Force",
+      "rarity": 0.01
+    },
+    {
+      "name": "Galar: Draining Kiss",
+      "rarity": 0.01
+    },
+    {
+      "name": "Galar: Grassy Terrain",
+      "rarity": 0.01
+    },
+    {
+      "name": "Galar: Misty Terrain",
+      "rarity": 0.01
+    },
+    {
+      "name": "Galar: Electric Terrain",
+      "rarity": 0.01
+    },
+    {
+      "name": "Galar: Psychic Terrain",
+      "rarity": 0.01
+    },
+    {
+      "name": "Galar: Mystical Fire",
+      "rarity": 0.01
+    },
+    {
+      "name": "Galar: Eerie Impulse",
+      "rarity": 0.01
+    },
+    {
+      "name": "galar: False Swipe",
+      "rarity": 0.01
+    },
+    {
+      "name": "Galar: Air Slash",
+      "rarity": 0.01
+    },
+    {
+      "name": "Galar: Smart Strike",
+      "rarity": 0.01
+    },
+    {
+      "name": "Galar: Brutal Swing",
+      "rarity": 0.01
+    },
+    {
+      "name": "Kanto: Mega Punch",
+      "rarity": 0.01
+    },
+    {
+      "name": "Kanto: Razor Wind",
+      "rarity": 0.01
+    },
+    {
+      "name": "Kanto: Swords Dance",
+      "rarity": 0.01
+    },
+    {
+      "name": "Kanto: Whirldwind",
+      "rarity": 0.01
+    },
+    {
+      "name": "Kanto: Mega Kick",
+      "rarity": 0.01
+    },
+    {
+      "name": "Kanto: Toxic",
+      "rarity": 0.01
+    },
+    {
+      "name": "Kanto: Horn Drill",
+      "rarity": 0.01
+    },
+    {
+      "name": "Kanto: Body Slam",
+      "rarity": 0.01
+    },
+    {
+      "name": "Kanto: Tack Down",
+      "rarity": 0.01
+    },
+    {
+      "name": "Kanto: Double-Edge",
+      "rarity": 0.01
+    },
+    {
+      "name": "Kanto: Bubble Beam",
+      "rarity": 0.01
+    },
+    {
+      "name": "Kanto: Water Gun",
+      "rarity": 0.01
+    },
+    {
+      "name": "Kanto: Ice Beam",
+      "rarity": 0.01
+    },
+    {
+      "name": "Kanto: Blizzard",
+      "rarity": 0.01
+    },
+    {
+      "name": "Kanto: Hyper Beam",
+      "rarity": 0.01
+    },
+    {
+      "name": "Kanto: Pay Day",
+      "rarity": 0.01
+    },
+    {
+      "name": "Kanto: Submission",
+      "rarity": 0.01
+    },
+    {
+      "name": "Kanto: Counter",
+      "rarity": 0.01
+    },
+    {
+      "name": "Kanto: Seismic Toss",
+      "rarity": 0.01
+    },
+    {
+      "name": "Kanto: Rage",
+      "rarity": 0.01
+    },
+    {
+      "name": "Kanto: Mega Drain",
+      "rarity": 0.01
+    },
+    {
+      "name": "Kanto: Solar Beam",
+      "rarity": 0.01
+    },
+    {
+      "name": "Kanto: Dragon Rage",
+      "rarity": 0.01
+    },
+    {
+      "name": "Kanto: Thunderbolt",
+      "rarity": 0.01
+    },
+    {
+      "name": "Kanto: Thunder",
+      "rarity": 0.01
+    },
+    {
+      "name": "Kanto: Earthquake",
+      "rarity": 0.01
+    },
+    {
+      "name": "Kanto: Fissure",
+      "rarity": 0.01
+    },
+    {
+      "name": "Kanto: Dig",
+      "rarity": 0.01
+    },
+    {
+      "name": "Kanto: Psychic",
+      "rarity": 0.01
+    },
+    {
+      "name": "Kanto: Teleport",
+      "rarity": 0.01
+    },
+    {
+      "name": "Kanto: Mimic",
+      "rarity": 0.01
+    },
+    {
+      "name": "Kanto: Double Team",
+      "rarity": 0.01
+    },
+    {
+      "name": "Kanto: Reflect",
+      "rarity": 0.01
+    },
+    {
+      "name": "Kanto: Bide",
+      "rarity": 0.01
+    },
+    {
+      "name": "Kanto: Metronome",
+      "rarity": 0.01
+    },
+    {
+      "name": "Kanto: Self-Destruct",
+      "rarity": 0.01
+    },
+    {
+      "name": "Kanto: Egg Bomb",
+      "rarity": 0.01
+    },
+    {
+      "name": "Kanto: Fire Blast",
+      "rarity": 0.01
+    },
+    {
+      "name": "Kanto: Swift",
+      "rarity": 0.01
+    },
+    {
+      "name": "Kanto: Skull Bash",
+      "rarity": 0.01
+    },
+    {
+      "name": "Kanto: Soft-Boiled",
+      "rarity": 0.01
+    },
+    {
+      "name": "Kanto: Dream Eater",
+      "rarity": 0.01
+    },
+    {
+      "name": "Kanto: Sky Attack",
+      "rarity": 0.01
+    },
+    {
+      "name": "Kanto: Rest",
+      "rarity": 0.01
+    },
+    {
+      "name": "Kanto: Thunder Wave",
+      "rarity": 0.01
+    },
+    {
+      "name": "Kanto: Psywave",
+      "rarity": 0.01
+    },
+    {
+      "name": "Kanto: Explosion",
+      "rarity": 0.01
+    },
+    {
+      "name": "Kanto: Rock Slide",
+      "rarity": 0.01
+    },
+    {
+      "name": "Kanto: Tri Attack",
+      "rarity": 0.01
+    },
+    {
+      "name": "Kanto: Substitute",
+      "rarity": 0.01
+    },
+    {
+      "name": "Johto: Dynamic Punch",
+      "rarity": 0.01
+    },
+    {
+      "name": "Johto: Headbutt",
+      "rarity": 0.01
+    },
+    {
+      "name": "Johto: Curse",
+      "rarity": 0.01
+    },
+    {
+      "name": "Johto: Rollout",
+      "rarity": 0.01
+    },
+    {
+      "name": "Johto: Roar",
+      "rarity": 0.01
+    },
+    {
+      "name": "Johto: Toxic",
+      "rarity": 0.01
+    },
+    {
+      "name": "Johto: Zap Cannon",
+      "rarity": 0.01
+    },
+    {
+      "name": "Johto: Rock Smash",
+      "rarity": 0.01
+    },
+    {
+      "name": "Johto: Psych Up",
+      "rarity": 0.01
+    },
+    {
+      "name": "Johto: Hidden Power",
+      "rarity": 0.01
+    },
+    {
+      "name": "Johto: Sunny Day",
+      "rarity": 0.01
+    },
+    {
+      "name": "Johto: Sweet Scent",
+      "rarity": 0.01
+    },
+    {
+      "name": "Johto: Snore",
+      "rarity": 0.01
+    },
+    {
+      "name": "Johto: Blizzard",
+      "rarity": 0.01
+    },
+    {
+      "name": "Johto: Hyper Beam",
+      "rarity": 0.01
+    },
+    {
+      "name": "Johto: Icy Wind",
+      "rarity": 0.01
+    },
+    {
+      "name": "Johto: Protect",
+      "rarity": 0.01
+    },
+    {
+      "name": "Johto: Rain Dance",
+      "rarity": 0.01
+    },
+    {
+      "name": "Johto: Giga Drain",
+      "rarity": 0.01
+    },
+    {
+      "name": "Johto: Endure",
+      "rarity": 0.01
+    },
+    {
+      "name": "Johto: Frustration",
+      "rarity": 0.01
+    },
+    {
+      "name": "Johto: Solar Beam",
+      "rarity": 0.01
+    },
+    {
+      "name": "Johto: Iron Tail",
+      "rarity": 0.01
+    },
+    {
+      "name": "Johto: Dragon Breath",
+      "rarity": 0.01
+    },
+    {
+      "name": "Johto: Thunder",
+      "rarity": 0.01
+    },
+    {
+      "name": "Johto: Earthquake",
+      "rarity": 0.01
+    },
+    {
+      "name": "Johto: Return",
+      "rarity": 0.01
+    },
+    {
+      "name": "Johto: Dig",
+      "rarity": 0.01
+    },
+    {
+      "name": "Johto: Psychic",
+      "rarity": 0.01
+    },
+    {
+      "name": "Johto: Shadow Ball",
+      "rarity": 0.01
+    },
+    {
+      "name": "Johto: Mud-Slap",
+      "rarity": 0.01
+    },
+    {
+      "name": "Johto: Double Team",
+      "rarity": 0.01
+    },
+    {
+      "name": "Johto: Ice Punch",
+      "rarity": 0.01
+    },
+    {
+      "name": "Johto: Swagger",
+      "rarity": 0.01
+    },
+    {
+      "name": "Johto: Sleep Talk",
+      "rarity": 0.01
+    },
+    {
+      "name": "Johto: Sludge Bomb",
+      "rarity": 0.01
+    },
+    {
+      "name": "Johto: Sandstorm",
+      "rarity": 0.01
+    },
+    {
+      "name": "Johto: Fire Blast",
+      "rarity": 0.01
+    },
+    {
+      "name": "Johto: Swift",
+      "rarity": 0.01
+    },
+    {
+      "name": "Johto: Defense Curl",
+      "rarity": 0.01
+    },
+    {
+      "name": "Johto: Thunder Punch",
+      "rarity": 0.01
+    },
+    {
+      "name": "Johto: Dream Eater",
+      "rarity": 0.01
+    },
+    {
+      "name": "Johto: Detect",
+      "rarity": 0.01
+    },
+    {
+      "name": "Johto: Rest",
+      "ragen2rity": 0.10
+    },
+    {
+      "name": "Johto: Attract",
+      "rarity": 0.01
+    },
+    {
+      "name": "Johto: Thief",
+      "rarity": 0.01
+    },
+    {
+      "name": "Johto: Steel Wing",
+      "rarity": 0.01
+    },
+    {
+      "name": "Johto: Fire Punch",
+      "rarity": 0.01
+    },
+    {
+      "name": "Johto: Fury Cutter",
+      "rarity": 0.01
+    },
+    {
+      "name": "Johto: Nightmare",
+      "rarity": 0.01
+    },
+    {
+      "name": "Hoenn: Focus Punch",
+      "rarity": 0.01
+    },
+    {
+      "name": "Hoenn: Dragon Claw",
+      "rarity": 0.01
+    },
+    {
+      "name": "Hoenn: Water Pulse",
+      "rarity": 0.01
+    },
+    {
+      "name": "Hoenn: Calm Mind",
+      "rarity": 0.01
+    },
+    {
+      "name": "Hoenn: Roar",
+      "rarity": 0.01
+    },
+    {
+      "name": "Hoenn: Toxic",
+      "rarity": 0.01
+    },
+    {
+      "name": "Hoenn: Hail",
+      "rarity": 0.01
+    },
+    {
+      "name": "Hoenn: Bulk Up",
+      "rarity": 0.01
+    },
+    {
+      "name": "Hoenn: Bullet Seed",
+      "rarity": 0.01
+    },
+    {
+      "name": "Hoenn: Hnameden Power",
+      "rarity": 0.01
+    },
+    {
+      "name": "Hoenn: Sunny Day",
+      "rarity": 0.01
+    },
+    {
+      "name": "Hoenn: Taunt",
+      "rarity": 0.01
+    },
+    {
+      "name": "Hoenn: Ice Beam",
+      "rarity": 0.01
+    },
+    {
+      "name": "Hoenn: Blizzard",
+      "rarity": 0.01
+    },
+    {
+      "name": "Hoenn: Hyper Beam",
+      "rarity": 0.01
+    },
+    {
+      "name": "Hoenn: Light Beam",
+      "rarity": 0.01
+    },
+    {
+      "name": "Hoenn: Protect",
+      "rarity": 0.01
+    },
+    {
+      "name": "Hoenn: Rain Dance",
+      "rarity": 0.01
+    },
+    {
+      "name": "Hoenn: Giga Drain",
+      "rarity": 0.01
+    },
+    {
+      "name": "Hoenn: Safeguard",
+      "rarity": 0.01
+    },
+    {
+      "name": "Hoenn: Frustration",
+      "rarity": 0.01
+    },
+    {
+      "name": "Hoenn: Solar Beam",
+      "rarity": 0.01
+    },
+    {
+      "name": "Hoenn: Iron Tail",
+      "rarity": 0.01
+    },
+    {
+      "name": "Hoenn: Thunderbolt",
+      "rarity": 0.01
+    },
+    {
+      "name": "Hoenn: Thunder",
+      "rarity": 0.01
+    },
+    {
+      "name": "Hoenn: Earthquake",
+      "rarity": 0.01
+    },
+    {
+      "name": "Hoenn: Return",
+      "rarity": 0.01
+    },
+    {
+      "name": "Hoenn: Dig",
+      "rarity": 0.01
+    },
+    {
+      "name": "Hoenn: Psychic",
+      "rarity": 0.01
+    },
+    {
+      "name": "Hoenn: Shadow Ball",
+      "rarity": 0.01
+    },
+    {
+      "name": "Hoenn: Brick Break",
+      "rarity": 0.01
+    },
+    {
+      "name": "Hoenn: Double Team",
+      "rarity": 0.01
+    },
+    {
+      "name": "Hoenn: Reflect",
+      "rarity": 0.01
+    },
+    {
+      "name": "Hoenn: Shock Wave",
+      "rarity": 0.01
+    },
+    {
+      "name": "Hoenn: Flamethrower",
+      "rarity": 0.01
+    },
+    {
+      "name": "Hoenn: Sludge Bomb",
+      "rarity": 0.01
+    },
+    {
+      "name": "Hoenn: Sandstorm",
+      "rarity": 0.01
+    },
+    {
+      "name": "Hoenn: Fire Blast",
+      "rarity": 0.01
+    },
+    {
+      "name": "Hoenn: Rock Tomb",
+      "rarity": 0.01
+    },
+    {
+      "name": "Hoenn: Aerial Ace",
+      "rarity": 0.01
+    },
+    {
+      "name": "Hoenn: Torment",
+      "rarity": 0.01
+    },
+    {
+      "name": "Hoenn: Facade",
+      "rarity": 0.01
+    },
+    {
+      "name": "Hoenn: Secret Power",
+      "rarity": 0.01
+    },
+    {
+      "name": "Hoenn: Rest",
+      "rarity": 0.01
+    },
+    {
+      "name": "Hoenn: Attract",
+      "rarity": 0.01
+    },
+    {
+      "name": "Hoenn: Thief",
+      "rarity": 0.01
+    },
+    {
+      "name": "Hoenn: Steel Wing",
+      "rarity": 0.01
+    },
+    {
+      "name": "Hoenn: Skill Swap",
+      "rarity": 0.01
+    },
+    {
+      "name": "Hoenn: Snatch",
+      "rarity": 0.01
+    },
+    {
+      "name": "Hoenn: Overheat",
+      "rarity": 0.01
+    },
+    {
+      "name": "Sinnoh: Focus Punch",
+      "rarity": 0.01
+    },
+    {
+      "name": "Sinnoh: Dragon Claw",
+      "rarity": 0.01
+    },
+    {
+      "name": "Sinnoh: Water Pulse",
+      "rarity": 0.01
+    },
+    {
+      "name": "Sinnoh: Calm Mind",
+      "rarity": 0.01
+    },
+    {
+      "name": "Sinnoh: Roar",
+      "rarity": 0.01
+    },
+    {
+      "name": "Sinnoh: Toxic",
+      "rarity": 0.01
+    },
+    {
+      "name": "Sinnoh: Hail",
+      "rarity": 0.01
+    },
+    {
+      "name": "Sinnoh: Bulk Up",
+      "rarity": 0.01
+    },
+    {
+      "name": "Sinnoh: Bullet Seed",
+      "rarity": 0.01
+    },
+    {
+      "name": "Sinnoh: Hidden Leaf",
+      "rarity": 0.01
+    },
+    {
+      "name": "Sinnoh: Sunny Day",
+      "rarity": 0.01
+    },
+    {
+      "name": "Sinnoh: Taunt",
+      "rarity": 0.01
+    },
+    {
+      "name": "Sinnoh: Ice Beam",
+      "rarity": 0.01
+    },
+    {
+      "name": "Sinnoh: Blizzard",
+      "rarity": 0.01
+    },
+    {
+      "name": "Sinnoh: Hyper Beam",
+      "rarity": 0.01
+    },
+    {
+      "name": "Sinnoh: Light Screen",
+      "rarity": 0.01
+    },
+    {
+      "name": "Sinnoh: Protect",
+      "rarity": 0.01
+    },
+    {
+      "name": "Sinnoh: Rain Dance",
+      "rarity": 0.01
+    },
+    {
+      "name": "Sinnoh: Giga Drain",
+      "rarity": 0.01
+    },
+    {
+      "name": "Sinnoh: Safeguard",
+      "rarity": 0.01
+    },
+    {
+      "name": "Sinnoh: Frustation",
+      "rarity": 0.01
+    },
+    {
+      "name": "Sinnoh: Solar Beam",
+      "rarity": 0.01
+    },
+    {
+      "name": "Sinnoh: Iron Tail",
+      "rarity": 0.01
+    },
+    {
+      "name": "Sinnoh: Thunderbolt",
+      "rarity": 0.01
+    },
+    {
+      "name": "Sinnoh: Thunder",
+      "rarity": 0.01
+    },
+    {
+      "name": "Sinnoh: Earthquake",
+      "rarity": 0.01
+    },
+    {
+      "name": "Sinnoh: Return",
+      "rarity": 0.01
+    },
+    {
+      "name": "Sinnoh: Dig",
+      "rarity": 0.01
+    },
+    {
+      "name": "Sinnoh: Psychic",
+      "rarity": 0.01
+    },
+    {
+      "name": "Sinnoh: Shadow Ball",
+      "rarity": 0.01
+    },
+    {
+      "name": "Sinnoh: Brick Break",
+      "rarity": 0.01
+    },
+    {
+      "name": "Sinnoh: Double Team",
+      "rarity": 0.01
+    },
+    {
+      "name": "Sinnoh: Reflect",
+      "rarity": 0.01
+    },
+    {
+      "name": "Sinnoh: Shock Wave",
+      "rarity": 0.01
+    },
+    {
+      "name": "Sinnoh: Flamethrower",
+      "rarity": 0.01
+    },
+    {
+      "name": "Sinnoh: Sludge Bomb",
+      "rarity": 0.01
+    },
+    {
+      "name": "Sinnoh: Sandstorm",
+      "rarity": 0.01
+    },
+    {
+      "name": "Sinnoh: Fire Blast",
+      "rarity": 0.01
+    },
+    {
+      "name": "Sinnoh: Rock Tomb",
+      "rarity": 0.01
+    },
+    {
+      "name": "Sinnoh: Aerial Ace",
+      "rarity": 0.01
+    },
+    {
+      "name": "Sinnoh: Torment",
+      "rarity": 0.01
+    },
+    {
+      "name": "Sinnoh: Facade",
+      "rarity": 0.01
+    },
+    {
+      "name": "Sinnoh: Secret Power",
+      "rarity": 0.01
+    },
+    {
+      "name": "Sinnoh: Rest",
+      "rarity": 0.01
+    },
+    {
+      "name": "Sinnoh: Attract",
+      "rarity": 0.01
+    },
+    {
+      "name": "Sinnoh: Thief",
+      "rarity": 0.01
+    },
+    {
+      "name": "Sinnoh: Steel Wing",
+      "rarity": 0.01
+    },
+    {
+      "name": "Sinnoh: Skill Swap",
+      "rarity": 0.01
+    },
+    {
+      "name": "Sinnoh: Snatch",
+      "rarity": 0.01
+    },
+    {
+      "name": "Sinnoh: Overheat",
+      "rarity": 0.01
+    },
+    {
+      "name": "Sinnoh: Roost",
+      "rarity": 0.01
+    },
+    {
+      "name": "Sinnoh: Focus Blast",
+      "rarity": 0.01
+    },
+    {
+      "name": "Sinnoh: Energy Ball",
+      "rarity": 0.01
+    },
+    {
+      "name": "Sinnoh: False Swipe",
+      "rarity": 0.01
+    },
+    {
+      "name": "Sinnoh: Brine",
+      "rarity": 0.01
+    },
+    {
+      "name": "Sinnoh: Fling",
+      "rarity": 0.01
+    },
+    {
+      "name": "Sinnoh: Charge Beam",
+      "rarity": 0.01
+    },
+    {
+      "name": "Sinnoh: Endure",
+      "rarity": 0.01
+    },
+    {
+      "name": "Sinnoh: Dragon Pulse",
+      "rarity": 0.01
+    },
+    {
+      "name": "Sinnoh: Drain Punch",
+      "rarity": 0.01
+    },
+    {
+      "name": "Sinnoh: Will-O-Wisp",
+      "rarity": 0.01
+    },
+    {
+      "name": "Sinnoh: Silver Wind",
+      "rarity": 0.01
+    },
+    {
+      "name": "Sinnoh: Embargo",
+      "rarity": 0.01
+    },
+    {
+      "name": "Sinnoh: Explosion",
+      "rarity": 0.01
+    },
+    {
+      "name": "Sinnoh: Shadow Claw",
+      "rarity": 0.01
+    },
+    {
+      "name": "Sinnoh: Payback",
+      "rarity": 0.01
+    },
+    {
+      "name": "Sinnoh: Recycle",
+      "rarity": 0.01
+    },
+    {
+      "name": "Sinnoh: Giga Impact",
+      "rarity": 0.01
+    },
+    {
+      "name": "Sinnoh: Rock Polish",
+      "rarity": 0.01
+    },
+    {
+      "name": "Sinnoh: Flash",
+      "rarity": 0.01
+    },
+    {
+      "name": "Sinnoh: Stone Edge",
+      "rarity": 0.01
+    },
+    {
+      "name": "Sinnoh: Avalanche",
+      "rarity": 0.01
+    },
+    {
+      "name": "Sinnoh: Thunder Wave",
+      "rarity": 0.01
+    },
+    {
+      "name": "Sinnoh: Gyro Ball",
+      "rarity": 0.01
+    },
+    {
+      "name": "Sinnoh: Swords Dance",
+      "rarity": 0.01
+    },
+    {
+      "name": "Sinnoh: Stealth Rock",
+      "rarity": 0.01
+    },
+    {
+      "name": "Sinnoh: Psych Up",
+      "rarity": 0.01
+    },
+    {
+      "name": "Sinnoh: Captivate",
+      "rarity": 0.01
+    },
+    {
+      "name": "Sinnoh: Dark Pulse",
+      "rarity": 0.01
+    },
+    {
+      "name": "Sinnoh: Rock Slide",
+      "rarity": 0.01
+    },
+    {
+      "name": "Sinnoh: X-Scizzor",
+      "rarity": 0.01
+    },
+    {
+      "name": "Sinnoh: Sleep Talk",
+      "rarity": 0.01
+    },
+    {
+      "name": "Sinnoh: Natural Gift",
+      "rarity": 0.01
+    },
+    {
+      "name": "Sinnoh: Poison Jab",
+      "rarity": 0.01
+    },
+    {
+      "name": "Sinnoh: Dream Eater",
+      "rarity": 0.01
+    },
+    {
+      "name": "Sinnoh: Grass Knot",
+      "rarity": 0.01
+    },
+    {
+      "name": "Sinnoh: Swagger",
+      "rarity": 0.01
+    },
+    {
+      "name": "Sinnoh: Pluck",
+      "rarity": 0.01
+    },
+    {
+      "name": "Sinnoh: U-turn",
+      "rarity": 0.01
+    },
+    {
+      "name": "Sinnoh: Substitute",
+      "rarity": 0.01
+    },
+    {
+      "name": "Sinnoh: Flash Cannon",
+      "rarity": 0.01
+    },
+    {
+      "name": "Sinnoh: Trick Room",
+      "rarity": 0.01
+    },
+    {
+      "name": "Unova: Hone Claws",
+      "rarity": 0.01
+    },
+    {
+      "name": "Unova: Dragon Claw",
+      "rarity": 0.01
+    },
+    {
+      "name": "Unova: Psyshock",
+      "rarity": 0.01
+    },
+    {
+      "name": "Unova: Calm Mind",
+      "rarity": 0.01
+    },
+    {
+      "name": "Unova: Roar",
+      "rarity": 0.01
+    },
+    {
+      "name": "Unova: Toxic",
+      "rarity": 0.01
+    },
+    {
+      "name": "Unova: Hail",
+      "rarity": 0.01
+    },
+    {
+      "name": "Unova: Bulk Up",
+      "rarity": 0.01
+    },
+    {
+      "name": "Unova: Venoshock",
+      "rarity": 0.01
+    },
+    {
+      "name": "Unova: Hidden Power",
+      "rarity": 0.01
+    },
+    {
+      "name": "Unova: Sunny Day",
+      "rarity": 0.01
+    },
+    {
+      "name": "Unova: Taunt",
+      "rarity": 0.01
+    },
+    {
+      "name": "Unova: Ice Beam",
+      "rarity": 0.01
+    },
+    {
+      "name": "Unova: Blizzard",
+      "rarity": 0.01
+    },
+    {
+      "name": "Unova: Hyper Beam",
+      "rarity": 0.01
+    },
+    {
+      "name": "Unova: Light Screen",
+      "rarity": 0.01
+    },
+    {
+      "name": "Unova: Protect",
+      "rarity": 0.01
+    },
+    {
+      "name": "Unova: Rain Dance",
+      "rarity": 0.01
+    },
+    {
+      "name": "Unova: Telekinesis",
+      "rarity": 0.01
+    },
+    {
+      "name": "Unova: Safeguard",
+      "rarity": 0.01
+    },
+    {
+      "name": "Unova: Frustation",
+      "rarity": 0.01
+    },
+    {
+      "name": "Unova: Solar Beam",
+      "rarity": 0.01
+    },
+    {
+      "name": "Unova: Smack Down",
+      "rarity": 0.01
+    },
+    {
+      "name": "Unova: Thunderbolt",
+      "rarity": 0.01
+    },
+    {
+      "name": "Unova: Thunder",
+      "rarity": 0.01
+    },
+    {
+      "name": "Unova: Earthquake",
+      "rarity": 0.01
+    },
+    {
+      "name": "Unova: Return",
+      "rarity": 0.01
+    },
+    {
+      "name": "Unova: Dig",
+      "rarity": 0.01
+    },
+    {
+      "name": "Unova: Psychic",
+      "rarity": 0.01
+    },
+    {
+      "name": "Unova: Shadow Ball",
+      "rarity": 0.01
+    },
+    {
+      "name": "Unova: Brick Break",
+      "rarity": 0.01
+    },
+    {
+      "name": "Unova: Double Team",
+      "rarity": 0.01
+    },
+    {
+      "name": "Unova: Reflect",
+      "rarity": 0.01
+    },
+    {
+      "name": "Unova: Sludge Wave",
+      "rarity": 0.01
+    },
+    {
+      "name": "Unova: Flamethrower",
+      "rarity": 0.01
+    },
+    {
+      "name": "Unova: Sludge Bomb",
+      "rarity": 0.01
+    },
+    {
+      "name": "Unova: Sandstorm",
+      "rarity": 0.01
+    },
+    {
+      "name": "Unova: Fire Blast",
+      "rarity": 0.01
+    },
+    {
+      "name": "Unova: Rock Tomb",
+      "rarity": 0.01
+    },
+    {
+      "name": "Unova: Aerial Ace",
+      "rarity": 0.01
+    },
+    {
+      "name": "Unova: Torment",
+      "rarity": 0.01
+    },
+    {
+      "name": "Unova: Facade",
+      "rarity": 0.01
+    },
+    {
+      "name": "Unova: Flame Charge",
+      "rarity": 0.01
+    },
+    {
+      "name": "Unova: Rest",
+      "rarity": 0.01
+    },
+    {
+      "name": "Unova: Attract",
+      "rarity": 0.01
+    },
+    {
+      "name": "Unova: Thief",
+      "rarity": 0.01
+    },
+    {
+      "name": "Unova: Low Sweep",
+      "rarity": 0.01
+    },
+    {
+      "name": "Unova: Round",
+      "rarity": 0.01
+    },
+    {
+      "name": "Unova: Echoed Voice",
+      "rarity": 0.01
+    },
+    {
+      "name": "Unova: Overheat",
+      "rarity": 0.01
+    },
+    {
+      "name": "Unova: Ally Switch",
+      "rarity": 0.01
+    },
+    {
+      "name": "Unova: Focus Blast",
+      "rarity": 0.01
+    },
+    {
+      "name": "Unova: Energy Ball",
+      "rarity": 0.01
+    },
+    {
+      "name": "Unova: False Swipe",
+      "rarity": 0.01
+    },
+    {
+      "name": "Unova: Scald",
+      "rarity": 0.01
+    },
+    {
+      "name": "Unova: Fling",
+      "rarity": 0.01
+    },
+    {
+      "name": "Unova: Charge Beam",
+      "rarity": 0.01
+    },
+    {
+      "name": "Unova: Sky Drop",
+      "rarity": 0.01
+    },
+    {
+      "name": "Unova: Incinerate",
+      "rarity": 0.01
+    },
+    {
+      "name": "Unova: Quash",
+      "rarity": 0.01
+    },
+    {
+      "name": "Unova: Will-O-Wisp",
+      "rarity": 0.01
+    },
+    {
+      "name": "Unova: Acrobatics",
+      "rarity": 0.01
+    },
+    {
+      "name": "Unova: Embargo",
+      "rarity": 0.01
+    },
+    {
+      "name": "Unova: Explosion",
+      "rarity": 0.01
+    },
+    {
+      "name": "Unova: Shadow Claw",
+      "rarity": 0.01
+    },
+    {
+      "name": "Unova: Payback",
+      "rarity": 0.01
+    },
+    {
+      "name": "Unova: Retaliate",
+      "rarity": 0.01
+    },
+    {
+      "name": "Unova: Giga Impact",
+      "rarity": 0.01
+    },
+    {
+      "name": "Unova: Rock Polish",
+      "rarity": 0.01
+    },
+    {
+      "name": "Unova: Flash",
+      "rarity": 0.01
+    },
+    {
+      "name": "Unova: Stone Edge",
+      "rarity": 0.01
+    },
+    {
+      "name": "Unova: Volt Switch",
+      "rarity": 0.01
+    },
+    {
+      "name": "Unova: Thunder Wave",
+      "rarity": 0.01
+    },
+    {
+      "name": "Unova: Gyro Ball",
+      "rarity": 0.01
+    },
+    {
+      "name": "Unova: Swords Dance",
+      "rarity": 0.01
+    },
+    {
+      "name": "Unova: Struggle Bug",
+      "rarity": 0.01
+    },
+    {
+      "name": "Unova: Psych Up",
+      "rarity": 0.01
+    },
+    {
+      "name": "Unova: Bulldoze",
+      "rarity": 0.01
+    },
+    {
+      "name": "Unova: Frost Breath",
+      "rarity": 0.01
+    },
+    {
+      "name": "Unova: Rock Slide",
+      "rarity": 0.01
+    },
+    {
+      "name": "Unova: X-Scizzor",
+      "rarity": 0.01
+    },
+    {
+      "name": "Unova: Dragon Tail",
+      "rarity": 0.01
+    },
+    {
+      "name": "Unova: Work Up",
+      "rarity": 0.01
+    },
+    {
+      "name": "Unova: Poison Jab",
+      "rarity": 0.01
+    },
+    {
+      "name": "Unova: Dream Eater",
+      "rarity": 0.01
+    },
+    {
+      "name": "Unova: Grass Knot",
+      "rarity": 0.01
+    },
+    {
+      "name": "Unova: Swagger",
+      "rarity": 0.01
+    },
+    {
+      "name": "Unova: Pluck",
+      "rarity": 0.01
+    },
+    {
+      "name": "Unova: U-turn",
+      "rarity": 0.01
+    },
+    {
+      "name": "Unova: Substitute",
+      "rarity": 0.01
+    },
+    {
+      "name": "Unova: Flash Cannon",
+      "rarity": 0.01
+    },
+    {
+      "name": "Unova: Trick Room",
+      "rarity": 0.01
+    },
+    {
+      "name": "Unova: Wild Charge",
+      "rarity": 0.01
+    },
+    {
+      "name": "Unova: Rock Smash",
+      "rarity": 0.01
+    },
+    {
+      "name": "Unova: Snarl",
+      "rarity": 0.01
+    },
+    {
+      "name": "Kalos: Hone Claws",
+      "rarity": 0.01
+    },
+    {
+      "name": "Kalos: Dragon Claw",
+      "rarity": 0.01
+    },
+    {
+      "name": "Kalos: Psyshock",
+      "rarity": 0.01
+    },
+    {
+      "name": "Kalos: Calm Mind",
+      "rarity": 0.01
+    },
+    {
+      "name": "Kalos: Roar",
+      "rarity": 0.01
+    },
+    {
+      "name": "Kalos: Toxic",
+      "rarity": 0.01
+    },
+    {
+      "name": "Kalos: Hail",
+      "rarity": 0.01
+    },
+    {
+      "name": "Kalos: Bulk Up",
+      "rarity": 0.01
+    },
+    {
+      "name": "Kalos: Venoshock",
+      "rarity": 0.01
+    },
+    {
+      "name": "Kalos: Hidden Power",
+      "rarity": 0.01
+    },
+    {
+      "name": "Kalos: Sunny Day",
+      "rarity": 0.01
+    },
+    {
+      "name": "Kalos: Taunt",
+      "rarity": 0.01
+    },
+    {
+      "name": "Kalos: Ice Beam",
+      "rarity": 0.01
+    },
+    {
+      "name": "Kalos: Blizzard",
+      "rarity": 0.01
+    },
+    {
+      "name": "Kalos: Hyper Beam",
+      "rarity": 0.01
+    },
+    {
+      "name": "Kalos: Light Screen",
+      "rarity": 0.01
+    },
+    {
+      "name": "Kalos: Protect",
+      "rarity": 0.01
+    },
+    {
+      "name": "Kalos: Rain Dance",
+      "rarity": 0.01
+    },
+    {
+      "name": "Kalos: Roost",
+      "rarity": 0.01
+    },
+    {
+      "name": "Kalos: Safeguard",
+      "rarity": 0.01
+    },
+    {
+      "name": "Kalos: Frustation",
+      "rarity": 0.01
+    },
+    {
+      "name": "Kalos: Solar Beam",
+      "rarity": 0.01
+    },
+    {
+      "name": "Kalos: Smack Down",
+      "rarity": 0.01
+    },
+    {
+      "name": "Kalos: Thunderbolt",
+      "rarity": 0.01
+    },
+    {
+      "name": "Kalos: Thunder",
+      "rarity": 0.01
+    },
+    {
+      "name": "Kalos: Earthquake",
+      "rarity": 0.01
+    },
+    {
+      "name": "Kalos: Return",
+      "rarity": 0.01
+    },
+    {
+      "name": "Kalos: Dig",
+      "rarity": 0.01
+    },
+    {
+      "name": "Kalos: Psychic",
+      "rarity": 0.01
+    },
+    {
+      "name": "Kalos: Shadow Ball",
+      "rarity": 0.01
+    },
+    {
+      "name": "Kalos: Brick Break",
+      "rarity": 0.01
+    },
+    {
+      "name": "Kalos: Double Team",
+      "rarity": 0.01
+    },
+    {
+      "name": "Kalos: Reflect",
+      "rarity": 0.01
+    },
+    {
+      "name": "Kalos: Sludge Wave",
+      "rarity": 0.01
+    },
+    {
+      "name": "Kalos: Flamethrower",
+      "rarity": 0.01
+    },
+    {
+      "name": "Kalos: Sludge Bomb",
+      "rarity": 0.01
+    },
+    {
+      "name": "Kalos: Sandstorm",
+      "rarity": 0.01
+    },
+    {
+      "name": "Kalos: Fire Blast",
+      "rarity": 0.01
+    },
+    {
+      "name": "Kalos: Rock Tomb",
+      "rarity": 0.01
+    },
+    {
+      "name": "Kalos: Aerial Ace",
+      "rarity": 0.01
+    },
+    {
+      "name": "Kalos: Torment",
+      "rarity": 0.01
+    },
+    {
+      "name": "Kalos: Facade",
+      "rarity": 0.01
+    },
+    {
+      "name": "Kalos: Flame Charge",
+      "rarity": 0.01
+    },
+    {
+      "name": "Kalos: Rest",
+      "rarity": 0.01
+    },
+    {
+      "name": "Kalos: Attract",
+      "rarity": 0.01
+    },
+    {
+      "name": "Kalos: Thief",
+      "rarity": 0.01
+    },
+    {
+      "name": "Kalos: Low Sweep",
+      "rarity": 0.01
+    },
+    {
+      "name": "Kalos: Round",
+      "rarity": 0.01
+    },
+    {
+      "name": "Kalos: Echoed Voice",
+      "rarity": 0.01
+    },
+    {
+      "name": "Kalos: Overheat",
+      "rarity": 0.01
+    },
+    {
+      "name": "Kalos: Steel Wing",
+      "rarity": 0.01
+    },
+    {
+      "name": "Kalos: Focus Blast",
+      "rarity": 0.01
+    },
+    {
+      "name": "Kalos: Energy Ball",
+      "rarity": 0.01
+    },
+    {
+      "name": "Kalos: False Swipe",
+      "rarity": 0.01
+    },
+    {
+      "name": "Kalos: Scald",
+      "rarity": 0.01
+    },
+    {
+      "name": "Kalos: Fling",
+      "rarity": 0.01
+    },
+    {
+      "name": "Kalos: Charge Beam",
+      "rarity": 0.01
+    },
+    {
+      "name": "Kalos: Sky Drop",
+      "rarity": 0.01
+    },
+    {
+      "name": "Kalos: Incinerate",
+      "rarity": 0.01
+    },
+    {
+      "name": "Kalos: Quash",
+      "rarity": 0.01
+    },
+    {
+      "name": "Kalos: Will-O-Wisp",
+      "rarity": 0.01
+    },
+    {
+      "name": "Kalos: Acrobatics",
+      "rarity": 0.01
+    },
+    {
+      "name": "Kalos: Embargo",
+      "rarity": 0.01
+    },
+    {
+      "name": "Kalos: Explosion",
+      "rarity": 0.01
+    },
+    {
+      "name": "Kalos: Shadow Claw",
+      "rarity": 0.01
+    },
+    {
+      "name": "Kalos: Payback",
+      "rarity": 0.01
+    },
+    {
+      "name": "Kalos: Retaliate",
+      "rarity": 0.01
+    },
+    {
+      "name": "Kalos: Giga Impact",
+      "rarity": 0.01
+    },
+    {
+      "name": "Kalos: Rock Polish",
+      "rarity": 0.01
+    },
+    {
+      "name": "Kalos: Flash",
+      "rarity": 0.01
+    },
+    {
+      "name": "Kalos: Stone Edge",
+      "rarity": 0.01
+    },
+    {
+      "name": "Kalos: Volt Switch",
+      "rarity": 0.01
+    },
+    {
+      "name": "Kalos: Thunder Wave",
+      "rarity": 0.01
+    },
+    {
+      "name": "Kalos: Gyro Ball",
+      "rarity": 0.01
+    },
+    {
+      "name": "Kalos: Swords Dance",
+      "rarity": 0.01
+    },
+    {
+      "name": "Kalos: Struggle Bug",
+      "rarity": 0.01
+    },
+    {
+      "name": "Kalos: Psych Up",
+      "rarity": 0.01
+    },
+    {
+      "name": "Kalos: Bulldoze",
+      "rarity": 0.01
+    },
+    {
+      "name": "Kalos: Frost Breath",
+      "rarity": 0.01
+    },
+    {
+      "name": "Kalos: Rock Slide",
+      "rarity": 0.01
+    },
+    {
+      "name": "Kalos: X-Scizzor",
+      "rarity": 0.01
+    },
+    {
+      "name": "Kalos: Dragon Tail",
+      "rarity": 0.01
+    },
+    {
+      "name": "Kalos: Infestation",
+      "rarity": 0.01
+    },
+    {
+      "name": "Kalos: Poison Jab",
+      "rarity": 0.01
+    },
+    {
+      "name": "Kalos: Dream Eater",
+      "rarity": 0.01
+    },
+    {
+      "name": "Kalos: Grass Knot",
+      "rarity": 0.01
+    },
+    {
+      "name": "Kalos: Swagger",
+      "rarity": 0.01
+    },
+    {
+      "name": "Kalos: Sleep Talk",
+      "rarity": 0.01
+    },
+    {
+      "name": "Kalos: U-turn",
+      "rarity": 0.01
+    },
+    {
+      "name": "Kalos: Substitute",
+      "rarity": 0.01
+    },
+    {
+      "name": "Kalos: Flash Cannon",
+      "rarity": 0.01
+    },
+    {
+      "name": "Kalos: Trick Room",
+      "rarity": 0.01
+    },
+    {
+      "name": "Kalos: Wild Charge",
+      "rarity": 0.01
+    },
+    {
+      "name": "Kalos: Rock Smash",
+      "rarity": 0.01
+    },
+    {
+      "name": "Kalos: Snarl",
+      "rarity": 0.01
+    },
+    {
+      "name": "Kalos: Nature Power",
+      "rarity": 0.01
+    },
+    {
+      "name": "Kalos: Dark Pulse",
+      "rarity": 0.01
+    },
+    {
+      "name": "Kalos: Power-Up Punch",
+      "rarity": 0.01
+    },
+    {
+      "name": "Kalos: Dazzling Gleam",
+      "rarity": 0.01
+    },
+    {
+      "name": "Kalos: Confide",
+      "rarity": 0.01
+    },
+    {
+      "name": "Kalos: Secret Power",
+      "rarity": 0.01
+    }
+    
+  ]
+}

@@ -1,0 +1,281 @@
+{
+  "data": {
+    "type": "PokemartSecond"
+  },
+  "textures": [
+    {
+      "name": "shoplady.png"
+    },
+    {
+      "name": "shoplady2.png"
+    },
+    {
+      "name": "shopsecondman.png"
+    }
+  ],
+  "names": [
+    {
+      "name": "Mrs. Peio"
+    },
+    {
+      "name": "Mrs. Maco"
+    },
+    {
+      "name": "Mr. Muscle"
+    }
+  ],
+  "chat": [
+    {
+      "hello": "Welcome to our lovely store. I am sure the quality of our goods will please you.",
+      "goodbye": "Delighted to have met you. Good day."
+    },
+    {
+      "hello": "Hello, and welcome to the Poké Mart. We have an exciting range of luxury goods.",
+      "goodbye": "Thank you for shopping at the Poké Mart."
+    },
+    {
+      "hello": "Bienvenu! Our Poké Mart has fine quality merchandise to offer you.",
+      "goodbye": "It was indeed a privilege to do business with you."
+    },
+    {
+      "hello": "Welcome to our fine Poké Mart. Enjoy browsing our luxury range.",
+      "goodbye": "Good day to you, and thank you for shopping at our store."
+    }
+  ],
+  "items": [
+    {
+      "name": "pixelmon:tm8_blank",
+      "variation": false,
+      "rarity": 1.0
+    },
+    {
+      "name": "pixelmon:tr8_blank",
+      "variation": false,
+      "rarity": 1.0
+    },
+    {
+      "name": "pixelmon:tm_gen1_blank",
+      "variation": false,
+      "rarity": 1.0
+    },
+    {
+      "name": "pixelmon:poke_ball",
+      "multi": 0.9
+    },
+    {
+      "name": "pixelmon:tm_gen1",
+      "rarity": 1.0,
+      "functions": [
+        {
+        "function": "minecraft:set_nbt",
+        "tag": "{tm: 1s}"
+        }
+      ]
+    },
+    {
+      "name": "pixelmon:tm_gen1",
+      "rarity": 1.0,
+      "tag": "{tm: 2s}"
+    },
+    {
+      "name": "Kanto: Mega Punch",
+      "rarity": 1.0
+    },
+    {
+      "name": "Kanto: Razor Wind",
+      "rarity": 1.0
+    },
+    {
+      "name": "Kanto: Swords Dance",
+      "rarity": 1.0
+    },
+    {
+      "name": "Kanto: Whirldwind",
+      "rarity": 1.0
+    },
+    {
+      "name": "Kanto: Mega Kick",
+      "rarity": 1.0
+    },
+    {
+      "name": "Kanto TM6: Toxic",
+      "rarity": 1.0
+    },
+    {
+      "name": "Kanto TM7: Horn Drill",
+      "rarity": 1.0
+    },
+    {
+      "name": "Kanto TM8: Body Slam",
+      "rarity": 1.0
+    },
+    {
+      "name": "Kanto TM9: Tack Down",
+      "rarity": 1.0
+    },
+    {
+      "name": "Kanto TM10: Double-Edge",
+      "rarity": 1.0
+    },
+    {
+      "name": "Kanto TM11: Bubble Beam",
+      "rarity": 0.10
+    },
+    {
+      "name": "Kanto TM12: Water Gun",
+      "rarity": 0.10
+    },
+    {
+      "name": "Kanto TM13: Ice Beam",
+      "rarity": 0.10
+    },
+    {
+      "name": "Kanto TM14: Blizzard",
+      "rarity": 0.10
+    },
+    {
+      "name": "Kanto TM15: Hyper Beam",
+      "rarity": 0.10
+    },
+    {
+      "name": "Kanto TM16: Pay Day",
+      "rarity": 0.10
+    },
+    {
+      "name": "Kanto TM17: Submission",
+      "rarity": 0.10
+    },
+    {
+      "name": "Kanto TM18: Counter",
+      "rarity": 0.10
+    },
+    {
+      "name": "Kanto TM19: Seismic Toss",
+      "rarity": 0.10
+    },
+    {
+      "name": "Kanto TM20: Rage",
+      "rarity": 0.10
+    },
+    {
+      "name": "Kanto TM21: Mega Drain",
+      "rarity": 0.10
+    },
+    {
+      "name": "Kanto TM22: Solar Beam",
+      "rarity": 0.10
+    },
+    {
+      "name": "Kanto TM23: Dragon Rage",
+      "rarity": 0.10
+    },
+    {
+      "name": "Kanto TM24: Thunderbolt",
+      "rarity": 0.10
+    },
+    {
+      "name": "Kanto TM25: Thunder",
+      "rarity": 0.10
+    },
+    {
+      "name": "Kanto TM26: Earthquake",
+      "rarity": 0.10
+    },
+    {
+      "name": "Kanto TM27: Fissure",
+      "rarity": 0.10
+    },
+    {
+      "name": "Kanto TM28: Dig",
+      "rarity": 0.10
+    },
+    {
+      "name": "Kanto TM29: Psychic",
+      "rarity": 0.10
+    },
+    {
+      "name": "Kanto TM30: Teleport",
+      "rarity": 0.10
+    },
+    {
+      "name": "Kanto TM31: Mimic",
+      "rarity": 0.10
+    },
+    {
+      "name": "Kanto TM32: Double Team",
+      "rarity": 0.10
+    },
+    {
+      "name": "Kanto TM33: Reflect",
+      "rarity": 0.10
+    },
+    {
+      "name": "Kanto TM34: Bide",
+      "rarity": 0.10
+    },
+    {
+      "name": "Kanto TM35: Metronome",
+      "rarity": 0.10
+    },
+    {
+      "name": "Kanto TM36: Self-Destruct",
+      "rarity": 0.10
+    },
+    {
+      "name": "Kanto TM37: Egg Bomb",
+      "rarity": 0.10
+    },
+    {
+      "name": "Kanto TM38: Fire Blast",
+      "rarity": 0.10
+    },
+    {
+      "name": "Kanto TM39: Swift",
+      "rarity": 0.10
+    },
+    {
+      "name": "Kanto TM40: Skull Bash",
+      "rarity": 0.10
+    },
+    {
+      "name": "Kanto TM41: Soft-Boiled",
+      "rarity": 0.10
+    },
+    {
+      "name": "Kanto TM42: Dream Eater",
+      "rarity": 0.10
+    },
+    {
+      "name": "Kanto TM43: Sky Attack",
+      "rarity": 0.10
+    },
+    {
+      "name": "Kanto TM44: Rest",
+      "rarity": 0.10
+    },
+    {
+      "name": "Kanto TM45: Thunder Wave",
+      "rarity": 0.10
+    },
+    {
+      "name": "Kanto TM46: Psywave",
+      "rarity": 0.10
+    },
+    {
+      "name": "Kanto TM47: Explosion",
+      "rarity": 0.10
+    },
+    {
+      "name": "Kanto TM48 Rock Slide",
+      "rarity": 0.10
+    },
+    {
+      "name": "Kanto TM49: Tri Attack",
+      "rarity": 0.10
+    },
+    {
+      "name": "Kanto TM50: Substitute",
+      "rarity": 0.10
+    }
+  ]
+}
